@@ -1,0 +1,5 @@
+hosttype=rhel-8.5
+default_ip=10.11.12.13
+username=root
+password=pswrd
+owner=client_owner@netapp.com

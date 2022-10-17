@@ -1,0 +1,5 @@
+hosttype=rhel9-9
+default_ip=3.111.214.3
+username=ec2-user
+key_filename=C:\Users\rahul\Downloads\RHE19.pem
+owner=rahuladithya@aws.com

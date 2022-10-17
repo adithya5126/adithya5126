@@ -1,0 +1,5 @@
+hosttype=filer-cmode
+default_ip=10.333.12.14
+username=admin
+password=pswrd1!
+owner=filer_owner@netapp.com
